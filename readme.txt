@@ -4,3 +4,4 @@ featurel
 merge --no-ff
 git is a free software.
 add test once more.
+fix bug.
